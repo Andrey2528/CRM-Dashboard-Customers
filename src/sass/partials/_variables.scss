@@ -1,0 +1,69 @@
+$bigDesc: '2560px';
+$maxDesc: '1440px';
+$maxTablet: '1024px';
+$mobile_menu_breakpoint: '1200px';
+$maxMobile: '900px';
+
+$container_max_size: 1320px;
+$base_font_size: 15px;
+
+/*
+@media (max-width: $bigDesc) {
+
+}
+@media (max-width: $maxDesc) {
+
+}
+@media (max-width: $maxTablet) {
+
+}
+@media (max-width: $mobile_menu_breakpoint) {
+
+}
+@media (max-width: $maxMobile) {
+
+}
+*/
+
+/*--fonts*/
+
+$poppinsFont: Poppins;
+
+/*--color--*/
+
+/*
+
+
+$bg_primary_color:
+
+$text_main_color:
+$text_primary_color:
+
+ */
+
+$bg_aside_color: #FFFFFF;
+$bg_main_color: #EEEEEE;
+$aside_active_element: #5932EA;
+$bg_input_color: #F9FBFF;
+
+$white_color: #FFFFFF;
+
+$text_customer_light: #B5B7C0;
+$text_customer_dark: #292D32;
+$text_status_active: #008767;
+$text_status_inactive: #DF0404;
+$text_pagination_color: #404B52;
+
+$bg_active_color: rgba(22, 192, 152, 0.38);
+$bg_active_incolor: #FFC5C5;
+
+$bg_pagination_color_inactive: #F5F5F5;
+$bg_pagination_color_active: #5932EA;
+
+/*------------*/
+$border_radius_main: 10px;
+$border_radius_status: 4px;
+$border_color_active: 1px solid #00B087;
+$border_color_inactive: 1px solid #DF0404;
+
+/*----------*/

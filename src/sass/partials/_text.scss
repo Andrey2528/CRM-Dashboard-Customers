@@ -1,0 +1,27 @@
+.text{
+	&__title{
+		font-family: $poppinsFont;
+		font-style: normal;
+		font-weight: 600;
+		line-height: normal;
+	}
+
+	&__desc{
+		font-family: $poppinsFont;
+		font-style: normal;
+		font-weight: 500;
+		line-height: normal;
+		&--light{
+			color: $text_customer_light;
+		}
+	}
+}
+
+.aside-list{
+	&__text{
+		font-family: $poppinsFont;
+		font-style: normal;
+		font-weight: 500;
+		line-height: normal;
+	}
+}
